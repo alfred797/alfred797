@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alfred 
 - 👀 I’m interested in Frontend Web Development 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently mastering CSS
 - 💞️ I’m looking to collaborate on worldclass projects
 - 📫 How to reach me fredadesoga@gmail.com
       08160933507
